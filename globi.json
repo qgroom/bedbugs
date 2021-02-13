@@ -1,5 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "citation": "Balvín, O., Munclinger, P., Kratochvíl, L., & Vilímová, J. (2012). Mitochondrial DNA and morphology show independent evolutionary histories of bedbug Cimex lectularius (Heteroptera: Cimicidae) on bats and humans. Parasitology Research, 111(1), 457-469.",
   "deprecated": false
 }
